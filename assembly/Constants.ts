@@ -9,7 +9,7 @@ export namespace Constants {
   export const START_TIME: u64 = 1701201600000; // Unix UTC time in milliseconds
   export const NFT_KCMB: Uint8Array = Base58.decode("1AhGbSHUVaTWV1oqJRSTihsi2ofEvvYevg");
   export const NFT_REX: Uint8Array = Base58.decode("1N2AhqGGticZ8hYmwNPWoroEBvTp3YGsLW");
-  export const URI: string = "https://bafybeigg5nw5ceedjmxhjhpzdv5d5pklktrq7wml3r4577t644322oav7i.ipfs.nftstorage.link";
+  export const URI: string = "https://bafybeibduv32tur6g3odl3prtidzvplrrdotjce2q6gtmj2wzsflyukh6y.ipfs.nftstorage.link";
   export const OWNER: Uint8Array = Base58.decode("1Bz14B1LkAQyvvqGKDxBe8ER6eb3RYMmuu"); // NFT creator
 
   // token mint
